@@ -1,1 +1,1 @@
-# config_repo
+# configuration_repo
